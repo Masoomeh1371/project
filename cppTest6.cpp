@@ -32,7 +32,7 @@ float r1=-b/(2*a);
 cout<<"r1 , r2 ="<<r1;
 }
 }else if(d<0){
-cout<<"No Exist result d is nagative";
+cout<<"No Exist result d is negative";
 }
 
 getch();
